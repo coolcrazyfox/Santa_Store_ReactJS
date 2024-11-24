@@ -1,6 +1,6 @@
 // import React, { useState } from "react";
 
-import "./App.css";
+import "./styles/styles.css";
 
 function App() {
   return (
